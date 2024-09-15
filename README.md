@@ -3,7 +3,10 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,arduino,cpp,cs,kotlin,unity,visualstudio,vscode,bash,powershell" />
+    <img src="https://skillicons.dev/icons?i=cpp,cs,kotlin,py" />
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,androidstudio,arduino,unity,bash,powershell,nodejs,mongodb,azure,postman" />
   </a>
 </p>
 
