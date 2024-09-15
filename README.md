@@ -5,6 +5,9 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp,cs,kotlin,py" />
   </a>
+</p>
+
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=visualstudio,vscode,androidstudio,arduino,unity,bash,powershell,nodejs,mongodb,azure,postman" />
   </a>
