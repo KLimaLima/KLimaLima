@@ -38,10 +38,11 @@
 </p>
 
 My Skills:
+- Virtual Reality(VR) Game Development => Unity
+- 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cs,unity" />
   </a>
-- Virtual Reality(VR) Game Development => Unity
 - C++ Game Development => SFML
 - Website Development => JavaScript, NodeJs
 - Native Android App Development => Kotlin, Android Studio
