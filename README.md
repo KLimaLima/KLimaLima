@@ -47,7 +47,7 @@ In collaboration with Tokushima University from Japan
     <img src="https://skillicons.dev/icons?i=cs,unity" />
   </a>
 
-- C++ Game Development => SFML
+### 2. C++ Game Development => SFML:
 - Website Development => JavaScript, NodeJs, MongoDB, Azure
 - Native Android App Development => Kotlin, Android Studio
 
