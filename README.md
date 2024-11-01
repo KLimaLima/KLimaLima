@@ -39,17 +39,23 @@
 
 My Skills:
 ### 1. Virtual Reality(VR) Game Development:
-[Fishing Game](https://github.com/yukiudagawa/Fishing.git)
-
-In collaboration with Tokushima University from Japan
+- [Fishing Game](https://github.com/yukiudagawa/Fishing.git)
+- In collaboration with Tokushima University from Japan
 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cs,unity" />
   </a>
 
 ### 2. C++ Game Development => SFML:
-- Website Development => JavaScript, NodeJs, MongoDB, Azure
-- Native Android App Development => Kotlin, Android Studio
+- [Dungeon Dive Card Game](https://github.com/KLimaLima/Dungeon-Dive-Card-Game.git)
+- Framework used: [SFML](https://www.sfml-dev.org/)
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,visualstudio" />
+  </a>
+
+### 3. Website Development => JavaScript, NodeJs, MongoDB, Azure
+### 4. Native Android App Development => Kotlin, Android Studio
 
 Languages:
 - C++
