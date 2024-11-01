@@ -41,7 +41,9 @@ My Skills:
 ### 1. Virtual Reality(VR) Game Development:
 [Fishing Game](https://github.com/yukiudagawa/Fishing.git)
 In collaboration with Tokushima University
-<img src="https://skillicons.dev/icons?i=cs,unity" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,unity" />
+  </a>
 
 - C++ Game Development => SFML
 - Website Development => JavaScript, NodeJs, MongoDB, Azure
