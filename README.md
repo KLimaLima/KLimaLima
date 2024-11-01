@@ -38,9 +38,7 @@
 </p>
 
 My Skills:
--   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,unity" />
-  </a>
+- <img src="https://skillicons.dev/icons?i=cs,unity" />
 - Virtual Reality(VR) Game Development => Unity
 - C++ Game Development => SFML
 - Website Development => JavaScript, NodeJs
