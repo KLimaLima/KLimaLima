@@ -38,8 +38,9 @@
 </p>
 
 My Skills:
-- <img src="https://skillicons.dev/icons?i=cs,unity" />
-- Virtual Reality(VR) Game Development => Unity
+### Virtual Reality(VR) Game Development => Unity
+<img src="https://skillicons.dev/icons?i=cs,unity" />
+
 - C++ Game Development => SFML
 - Website Development => JavaScript, NodeJs, MongoDB, Azure
 - Native Android App Development => Kotlin, Android Studio
