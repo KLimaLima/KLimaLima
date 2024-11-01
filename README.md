@@ -39,7 +39,7 @@
 
 My Skills:
 ### 1. Virtual Reality(VR) Game Development:
-[Fishing Game](https://github.com/yukiudagawa/Fishing.git)
+[Fishing Game ](https://github.com/yukiudagawa/Fishing.git)
 In collaboration with Tokushima University
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cs,unity" />
