@@ -57,12 +57,10 @@ My Skills:
 ### 3. Website Development => JavaScript, NodeJs, MongoDB, Azure
 ### 4. Native Android App Development => Kotlin, Android Studio
 
-Languages:
-- C++
-- C#
-- Kotlin
-- Python
-- JavaScript
+### Languages:
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,cs,py,kotlin,js" />
+  </a>
 
 Engines/Frameworks Worked With:
 - Unity
