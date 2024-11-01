@@ -38,7 +38,7 @@
 </p>
 
 My Skills:
-### Virtual Reality(VR) Game Development => Unity
+### 1. Virtual Reality(VR) Game Development => Unity
 <img src="https://skillicons.dev/icons?i=cs,unity" />
 
 - C++ Game Development => SFML
