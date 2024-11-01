@@ -38,8 +38,7 @@
 </p>
 
 My Skills:
-- 
-  <a href="https://skillicons.dev">
+-   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cs,unity" />
   </a>
 - Virtual Reality(VR) Game Development => Unity
