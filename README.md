@@ -57,18 +57,18 @@
 ### 3. Website Development => JavaScript, NodeJs, MongoDB, Azure
 ### 4. Native Android App Development => Kotlin, Android Studio
 
-### Languages:
+## Languages:
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp,cs,py,kotlin,js" />
   </a>
 
-Engines/Frameworks Worked With:
+## Engines/Frameworks Worked With:
 - Unity
 - SFML
 - NodeJs
 - Android Studio
 
-Misc.:
+## Misc.:
 - Github & Git
 - MangaDex API
 - Python Requests Library
