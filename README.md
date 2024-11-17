@@ -37,7 +37,7 @@
   </a>
 </p>
 
-My Skills:
+### Projects:
 ### 1. Virtual Reality(VR) Game Development:
 - [Fishing Game](https://github.com/yukiudagawa/Fishing.git)
 - In collaboration with Tokushima University from Japan
