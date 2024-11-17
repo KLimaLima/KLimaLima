@@ -46,7 +46,7 @@ My Skills:
     <img src="https://skillicons.dev/icons?i=cs,unity" />
   </a>
 
-### 2. C++ Game Development => SFML:
+### 2. C++ Game Development:
 - [Dungeon Dive Card Game](https://github.com/KLimaLima/Dungeon-Dive-Card-Game.git)
 - Framework used: [SFML](https://www.sfml-dev.org/)
 
