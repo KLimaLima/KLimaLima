@@ -54,7 +54,7 @@
     <img src="https://skillicons.dev/icons?i=cpp,visualstudio" />
   </a>
 
-### 3. Website Development => JavaScript, NodeJs, MongoDB, Azure
+### 3. API Development => JavaScript, NodeJs, MongoDB, Azure, Postman
 ### 4. Native Android App Development => Kotlin, Android Studio
 
 ## Languages:
