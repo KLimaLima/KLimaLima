@@ -27,7 +27,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,nodejs,mongodb,azure,postman" />
+    <img src="https://skillicons.dev/icons?i=js,nodejs,express,mongodb,azure,postman" />
   </a>
 </p>
 
@@ -54,7 +54,7 @@
     <img src="https://skillicons.dev/icons?i=cpp,visualstudio" />
   </a>
 
-### 3. API Development => JavaScript, NodeJs, MongoDB, Azure, Postman
+### 3. API Development => JavaScript, NodeJs, Express, MongoDB, Azure, Postman
 ### 4. Native Android App Development => Kotlin, Android Studio
 
 ## Languages:
