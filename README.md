@@ -90,7 +90,6 @@
 ## Misc.:
 - Github & Git
 - MangaDex API
-- Python Requests Library
 - Postman
 - Arduino
 
