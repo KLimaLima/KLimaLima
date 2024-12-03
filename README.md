@@ -76,6 +76,11 @@
     <img src="https://skillicons.dev/icons?i=cpp,cs,py,kotlin,js" />
   </a>
 
+## OS and CLI:
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=windows,powershell,kali,bash" />
+  </a>
+
 ## Engines/Frameworks Worked With:
 - Unity
 - SFML
