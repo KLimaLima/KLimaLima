@@ -33,13 +33,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,powershell" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=windows,kali" />
+    <img src="https://skillicons.dev/icons?i=windows,powershell,kali,bash" />
   </a>
 </p>
 
