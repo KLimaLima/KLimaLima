@@ -45,7 +45,7 @@
 
 ## Projects:
 ### 1. Virtual Reality(VR) Game Development:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KLimaLima&repo=Fishing)](https://github.com/yukiudagawa/Fishing)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KLimaLima&repo=Fishing&show_owner=true)](https://github.com/yukiudagawa/Fishing)
 - [Fishing Game](https://github.com/yukiudagawa/Fishing)
 - In collaboration with Tokushima University from Japan
 
