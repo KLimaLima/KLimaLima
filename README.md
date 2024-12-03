@@ -66,13 +66,13 @@
     <img src="https://skillicons.dev/icons?i=cpp,visualstudio" />
   </a>
 
-### 3. API Development => JavaScript, NodeJs, Express, MongoDB, Azure, Postman
+### 3. API Development
 - [APIGame_DungeonSurvival](https://github.com/KLimaLima/APIGame_DungeonSurvival)
 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,nodejs,express,mongodb,azure,postman" />
   </a>
-### 4. Native Android App Development => Kotlin, Android Studio
+### 4. Native Android App Development
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=kotlin,androidstudio" />
   </a>
