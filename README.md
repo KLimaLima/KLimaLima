@@ -51,7 +51,7 @@
 
 ## Projects:
 ### 1. Virtual Reality(VR) Game Development:
-- [Fishing Game](https://github.com/yukiudagawa/Fishing.git)
+- [Fishing Game](https://github.com/yukiudagawa/Fishing)
 - In collaboration with Tokushima University from Japan
 
   <a href="https://skillicons.dev">
@@ -59,7 +59,7 @@
   </a>
 
 ### 2. C++ Game Development:
-- [Dungeon Dive Card Game](https://github.com/KLimaLima/Dungeon-Dive-Card-Game.git)
+- [Dungeon Dive Card Game](https://github.com/KLimaLima/Dungeon-Dive-Card-Game)
 - Framework used: [SFML](https://www.sfml-dev.org/)
 
   <a href="https://skillicons.dev">
@@ -67,7 +67,14 @@
   </a>
 
 ### 3. API Development => JavaScript, NodeJs, Express, MongoDB, Azure, Postman
+- [APIGame_DungeonSurvival](https://github.com/KLimaLima/APIGame_DungeonSurvival)
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,nodejs,express,mongodb,azure,postman" />
+  </a>
 ### 4. Native Android App Development => Kotlin, Android Studio
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=kotlin,androidstudio" />
+  </a>
 
 ## Languages:
   <a href="https://skillicons.dev">
