@@ -45,7 +45,7 @@
 
 ## Projects:
 ### 1. Virtual Reality(VR) Game Development:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yukiudagawa&repo=Fishing&show_owner=true)](https://github.com/yukiudagawa/Fishing)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yukiudagawa&repo=Fishing&show_owner=true&theme=github_dark_dimmed)](https://github.com/yukiudagawa/Fishing)
 - [Fishing Game](https://github.com/yukiudagawa/Fishing)
 - In collaboration with Tokushima University from Japan
 
@@ -54,6 +54,7 @@
   </a>
 
 ### 2. C++ Game Development:
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KLimaLima&repo=Dungeon-Dive-Card-Game&show_owner=true&theme=github_dark_dimmed)](https://github.com/KLimaLima/Dungeon-Dive-Card-Game)
 - [Dungeon Dive Card Game](https://github.com/KLimaLima/Dungeon-Dive-Card-Game)
 - Framework used: [SFML](https://www.sfml-dev.org/)
 
