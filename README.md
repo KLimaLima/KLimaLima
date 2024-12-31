@@ -46,6 +46,7 @@
 ## Projects:
 ### 1. Virtual Reality(VR) Game Development:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yukiudagawa&repo=Fishing&show_owner=true&theme=github_dark_dimmed)](https://github.com/yukiudagawa/Fishing)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KLimaLima&repo=Surviving-on-Fish&show_owner=true&theme=github_dark_dimmed)](https://github.com/KLimaLima/Surviving-on-Fish)
 - In collaboration with Tokushima University from Japan
 
   <a href="https://skillicons.dev">
@@ -66,6 +67,7 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,nodejs,express,mongodb,azure,postman" />
   </a>
+
 ### 4. Native Android App Development
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=kotlin,androidstudio" />
