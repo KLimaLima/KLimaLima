@@ -61,7 +61,7 @@
   </a>
 
 ### 3. API Development
-- [APIGame_DungeonSurvival](https://github.com/KLimaLima/APIGame_DungeonSurvival)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KLimaLima&repo=Wordle-Malay&show_owner=true&theme=github_dark_dimmed)](https://github.com/KLimaLima/Wordle-Malay)
 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,nodejs,express,mongodb,azure,postman" />
