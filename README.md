@@ -93,4 +93,4 @@
 - Postman
 - Arduino
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=klimalima&layout=compact&theme=github_dark_dimmed)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=klimalima&layout=compact&theme=github_dark_dimmed&hide=shaderlab,mathematica,hlsl)
