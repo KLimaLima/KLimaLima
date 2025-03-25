@@ -43,6 +43,12 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=r" />
+  </a>
+</p>
+
 ## Projects:
 ### 1. Virtual Reality(VR) Game Development:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yukiudagawa&repo=Fishing&show_owner=true&theme=github_dark_dimmed)](https://github.com/yukiudagawa/Fishing)
@@ -75,7 +81,7 @@
 
 ## Languages:
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,cs,py,kotlin,js" />
+    <img src="https://skillicons.dev/icons?i=cpp,cs,py,kotlin,js,r" />
   </a>
 
 ## OS and CLI:
